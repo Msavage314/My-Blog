@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/My-Blog/</loc>
-    <lastmod>2025-11-23T19:11:56+00:00</lastmod>
+    <loc>https://msavage314.github.io/My-Blog/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Blog/posts/</loc>
-    <lastmod>2025-11-23T19:11:56+00:00</lastmod>
+    <loc>https://msavage314.github.io/My-Blog/post/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Blog/posts/first-post/</loc>
-    <lastmod>2025-11-23T19:11:56+00:00</lastmod>
+    <loc>https://msavage314.github.io/My-Blog/post/welcome/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Blog/categories/</loc>
+    <loc>https://msavage314.github.io/My-Blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/My-Blog/tags/</loc>
+    <loc>https://msavage314.github.io/My-Blog/tags/</loc>
   </url>
 </urlset>
