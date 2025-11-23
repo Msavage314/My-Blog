@@ -9,7 +9,7 @@ featuredImageField = "image"
 rssFullContent = true
 
 [params.sidebar]
-emoji = "🍥"
+emoji = ""
 subtitle = "Random projects, code, and ideas"
 
 [params.sidebar.avatar]
