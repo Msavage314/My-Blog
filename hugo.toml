@@ -36,3 +36,9 @@ identifier = "post"
 name = "Posts"
 url = "/post/"
 weight = -90
+
+[markup]
+[markup.highlight]
+style = "monokai"         # or dracula, github, etc.
+lineNos = true
+lineNumbersInTable = true
